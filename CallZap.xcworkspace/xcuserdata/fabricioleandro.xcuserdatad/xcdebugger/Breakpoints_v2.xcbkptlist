@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ECD39ACE-B70D-4E1B-8819-7DA00E621174"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71BFF115-14C6-46B1-BADC-56AF7F8E21D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "numberButtonTapped(number:phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71BFF115-14C6-46B1-BADC-56AF7F8E21D5 - a032c080d3666ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "601">
+               </Location>
+               <Location
+                  uuid = "71BFF115-14C6-46B1-BADC-56AF7F8E21D5 - a032c080d3666ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73AAB51B-3B4A-4F05-B19D-1093364B781D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "numberButtonTapped(number:phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "73AAB51B-3B4A-4F05-B19D-1093364B781D - a032c080d3666e78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "73AAB51B-3B4A-4F05-B19D-1093364B781D - a032c080d3666e78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CF0C3FF-1458-441E-B19F-5A913699EEC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "numberButtonTapped(number:phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CF0C3FF-1458-441E-B19F-5A913699EEC5 - a032c080d3666d42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "265">
+               </Location>
+               <Location
+                  uuid = "2CF0C3FF-1458-441E-B19F-5A913699EEC5 - a032c080d3666d42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0C10A4E-1F6B-4EF4-880C-C7BC92571DDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "deleteButtonTapped(phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0C10A4E-1F6B-4EF4-880C-C7BC92571DDC - c064e0e88b47c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.deleteButtonTapped(phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F0C10A4E-1F6B-4EF4-880C-C7BC92571DDC - c064e0e88b47c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.deleteButtonTapped(phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6B46E62-BCE3-45A7-9EFA-0953062AE83F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "deleteButtonTapped(phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E6B46E62-BCE3-45A7-9EFA-0953062AE83F - c064e0e88b47c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.deleteButtonTapped(phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "E6B46E62-BCE3-45A7-9EFA-0953062AE83F - c064e0e88b47c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.deleteButtonTapped(phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "E6B46E62-BCE3-45A7-9EFA-0953062AE83F - c064e0e88b47c77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.deleteButtonTapped(phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19ECF738-055A-45D0-98E0-6DC651BF6A5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "deleteButtonTapped(phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19ECF738-055A-45D0-98E0-6DC651BF6A5F - c064e0e88b47df3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.deleteButtonTapped(phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "19ECF738-055A-45D0-98E0-6DC651BF6A5F - c064e0e88b47df3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.deleteButtonTapped(phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DC4E366-3D1C-4288-A854-3D9A1A0DF710"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "numberButtonTapped(number:phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DC4E366-3D1C-4288-A854-3D9A1A0DF710 - a032c080d3666ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "0DC4E366-3D1C-4288-A854-3D9A1A0DF710 - a032c080d3666ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F44CD9E1-19DA-4945-90E4-678817EFCB9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/Screen/ScreenPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "numberButtonTapped(number:phone:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F44CD9E1-19DA-4945-90E4-678817EFCB9C - a032c080d3666c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "F44CD9E1-19DA-4945-90E4-678817EFCB9C - a032c080d3666c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.ScreenPresenter.numberButtonTapped(number: Swift.String, phone: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/Screen/ScreenPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B877EE2-B1FA-4F63-92BA-3DABFEFFFE9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B877EE2-B1FA-4F63-92BA-3DABFEFFFE9C - 5e507a783134b614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "1B877EE2-B1FA-4F63-92BA-3DABFEFFFE9C - 5e507a783134b614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "1B877EE2-B1FA-4F63-92BA-3DABFEFFFE9C - 5e507a783134b614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "1B877EE2-B1FA-4F63-92BA-3DABFEFFFE9C - f66428cbe2e907b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86F9870D-998B-4433-A57E-877E52CED573"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CallZap/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86F9870D-998B-4433-A57E-877E52CED573 - 5e507a783134b614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  uuid = "86F9870D-998B-4433-A57E-877E52CED573 - 5e507a783134b614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "86F9870D-998B-4433-A57E-877E52CED573 - 5e507a783134b614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "86F9870D-998B-4433-A57E-877E52CED573 - f66428cbe2e907b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in CallZap.AppDelegate.application(_: __C.UIApplication, didFinishLaunchingWithOptions: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIApplicationLaunchOptionsKey, Any&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "CallZap"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fabricioleandro/Desktop/CallZap/CallZap/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
